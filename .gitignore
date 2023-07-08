@@ -12,10 +12,6 @@
 /.next/
 /out/
 
-/Engine/.env
-/.env
-/*/.env
-/*env
 # production
 /build
 
@@ -41,3 +37,7 @@ next-env.d.ts
 /Engine/venv
 /Engine/client_secret*
 /Engine/db.json
+/Engine/.env
+/.env
+/*/.env
+/*env
